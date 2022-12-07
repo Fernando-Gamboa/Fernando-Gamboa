@@ -19,10 +19,11 @@ I am a software engineer passionate about developing web applications. I enjoy n
 
 When I'm not coding you can find me hiking, reading, or trying out new food places 🍔
 
-Front-End: JavaScript, React, jQuery, HTML5, CSS, Bootstrap, Tailwind
-Back-End: Node.js, Express, MySQL, PostgreSQL, MongoDB/Mongoose, RESTful APIs
-Testing/Deployment: Jest, Mocha/Chai, AWS (EC2), Loader.io, K6
-Developer Tools: Git, Babel, Webpack, Nginx, Postman, Scrum, Firebase, Figma
+<br></br>
+<strong>Front-End</strong>: JavaScript, React, jQuery, HTML5, CSS, Bootstrap, Tailwind <br />
+<strong>Back-End</strong>: Node.js, Express, MySQL, PostgreSQL, MongoDB/Mongoose, RESTful APIs <br />
+<strong>Testing/Deployment</strong>: Jest, Mocha/Chai, AWS (EC2), Loader.io, K6 <br />
+<strong>Developer Tools</strong>: Git, Babel, Webpack, Nginx, Postman, Scrum, Firebase, Figma
 
 <br></br>
 📫 How to reach me: gamboaf011@gmail.com
